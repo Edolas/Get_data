@@ -1,8 +1,3 @@
-Get_data
-========
-
-Getting and cleaning data - Coursera
-
 #README for run_analysis.R
 The R script does the following steps provided the unpacked data is present in the working directory.
 
