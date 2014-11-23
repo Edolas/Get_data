@@ -3,14 +3,14 @@ The R script does the following steps provided the unpacked data is present in t
 
 * load required libraries
 * load test data into variables
-* Load measurement names and extract unique names
-* Add descriptive names to activities
-* Add measurement names to test data
-* Add subject and activity id to test data
-* load train data into variables and add descriptive names
-* Add measurement names to train data
-* Add subject and activity id to train data
-* Merge data and load into df for use of dplyr
+* load measurement names and extract unique names
+* add descriptive names to activities
+* add measurement names to test data
+* add subject and activity id to test data
+* load train data into variables and add descriptive activity names
+* add measurement names to train data
+* add subject and activity id to train data
+* merge data and load into df for use of dplyr
 * extract only mean and stdev data columns
 * create data set with average of each variable per subject and activity
 
